@@ -38,4 +38,5 @@
     Example: https://codepen.io/ipsiart/full/wWzNgq
     
 1. Tic tac toe
+
     Example: https://codepen.io/ipsiart/full/rLpRVX
